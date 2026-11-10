@@ -1,0 +1,12 @@
+#   Write a Python program using the random module to generate 10 random integers.
+
+
+import random
+
+numbers = []
+
+for i in range(10):
+    num = random.randint(1, 100)
+    numbers.append(num)
+
+print("Random numbers:", numbers)
