@@ -1,0 +1,3 @@
+Today I learned Python.
+I practiced file handling.
+I learned read() function.
