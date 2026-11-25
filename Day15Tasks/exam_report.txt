@@ -1,0 +1,7 @@
+    Name  Marks Grade
+0  Rahul     17  Fail
+1  Priya     32  Fail
+2   Amit      7  Fail
+3  Sneha     35  Fail
+4  Kiran     41  Fail
+Average Marks: 27

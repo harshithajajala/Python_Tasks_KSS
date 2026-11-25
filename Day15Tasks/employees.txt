@@ -1,0 +1,4 @@
+ravi, 30000.0
+tinku, 60000.0
+harsitha, 80000.0
+honey, 25000.0

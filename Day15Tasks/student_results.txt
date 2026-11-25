@@ -1,0 +1,4 @@
+Students scoring above 50:
+Rahul: 75
+Amit: 85
+Sneha: 60
